@@ -1,0 +1,8 @@
+HANDELSDAG=2026-10-16
+CIJFERSCORE=1
+NIEUWS=?
+TOTAAL=1
+NIVEAU=RUSTIG
+KANS_GROOT3=0.033
+AAN=aandelen
+TEKST=nieuws niet gelezen - alleen cijfers

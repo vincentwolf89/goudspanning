@@ -1,0 +1,43 @@
+{
+ "gemaakt": "2026-10-17T04:00Z",
+ "handelsdag": "2026-10-16",
+ "goud_slot": 4181.1,
+ "cijferscore": 1,
+ "signalen": {
+  "model": {
+   "aan": false,
+   "waarde": 0.006,
+   "uitleg": "kans op >= 3% bereik 1% (aan vanaf 15%)"
+  },
+  "gvz": {
+   "aan": false,
+   "waarde": 22.58,
+   "uitleg": "GVZ 22.6, rang 0.12, -1% in 5 d (aan bij rang >= 0,80 of +5%)"
+  },
+  "reele_rente": {
+   "aan": false,
+   "waarde": -0.14,
+   "uitleg": "10j reele rente -0.14 pp in 5 d (aan vanaf +0,20; enige met richting: goud omlaag)"
+  },
+  "bodem_top": {
+   "aan": false,
+   "waarde": 3.61,
+   "uitleg": "3.6 ATR boven de 250d-bodem, 18.1 ATR onder de top (aan binnen 1)"
+  },
+  "aandelen": {
+   "aan": true,
+   "waarde": -0.019,
+   "uitleg": "S&P -1.1% vandaag / -1.9% in 5 d, VIX +35% in 5 d"
+  }
+ },
+ "kans_volgende_dag": {
+  "groot3": 0.033,
+  "daal2": 0.024,
+  "val5_2d": 0.009
+ },
+ "nieuws": null,
+ "nieuws_tekst": "nieuws niet gelezen - alleen cijfers",
+ "totaal": 1,
+ "niveau": "RUSTIG",
+ "berichten": []
+}
