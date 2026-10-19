@@ -1,8 +1,8 @@
 HANDELSDAG=2026-10-16
 CIJFERSCORE=1
-NIEUWS=?
+NIEUWS=0
 TOTAAL=1
 NIVEAU=RUSTIG
 KANS_GROOT3=0.033
 AAN=aandelen
-TEKST=nieuws niet gelezen - alleen cijfers
+TEKST=Rustige maandag: geen USD-berichten met hoge impact. Goud schommelt rond $4.170-4.200 met een vaste dollar; markt wacht op de FOMC-vergadering later deze week en flash-PMI's. Geen acute schok gemeld.

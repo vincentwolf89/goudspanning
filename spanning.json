@@ -1,5 +1,5 @@
 {
- "gemaakt": "2026-10-17T04:00Z",
+ "gemaakt": "2026-10-19T19:27Z",
  "handelsdag": "2026-10-16",
  "goud_slot": 4181.1,
  "cijferscore": 1,
@@ -35,8 +35,8 @@
   "daal2": 0.024,
   "val5_2d": 0.009
  },
- "nieuws": null,
- "nieuws_tekst": "nieuws niet gelezen - alleen cijfers",
+ "nieuws": 0,
+ "nieuws_tekst": "Rustige maandag: geen USD-berichten met hoge impact. Goud schommelt rond $4.170-4.200 met een vaste dollar; markt wacht op de FOMC-vergadering later deze week en flash-PMI's. Geen acute schok gemeld.",
  "totaal": 1,
  "niveau": "RUSTIG",
  "berichten": []
