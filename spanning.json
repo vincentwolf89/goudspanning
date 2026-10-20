@@ -1,43 +1,43 @@
 {
- "gemaakt": "2026-10-19T19:27Z",
- "handelsdag": "2026-10-16",
- "goud_slot": 4181.1,
- "cijferscore": 1,
+ "gemaakt": "2026-10-20T05:16Z",
+ "handelsdag": "2026-10-19",
+ "goud_slot": 4160.1,
+ "cijferscore": 0,
  "signalen": {
   "model": {
    "aan": false,
-   "waarde": 0.006,
+   "waarde": 0.007,
    "uitleg": "kans op >= 3% bereik 1% (aan vanaf 15%)"
   },
   "gvz": {
    "aan": false,
-   "waarde": 22.58,
-   "uitleg": "GVZ 22.6, rang 0.12, -1% in 5 d (aan bij rang >= 0,80 of +5%)"
+   "waarde": 22.23,
+   "uitleg": "GVZ 22.2, rang 0.09, -1% in 5 d (aan bij rang >= 0,80 of +5%)"
   },
   "reele_rente": {
    "aan": false,
-   "waarde": -0.14,
-   "uitleg": "10j reele rente -0.14 pp in 5 d (aan vanaf +0,20; enige met richting: goud omlaag)"
+   "waarde": -0.13,
+   "uitleg": "10j reele rente -0.13 pp in 5 d (aan vanaf +0,20; enige met richting: goud omlaag)"
   },
   "bodem_top": {
    "aan": false,
-   "waarde": 3.61,
-   "uitleg": "3.6 ATR boven de 250d-bodem, 18.1 ATR onder de top (aan binnen 1)"
+   "waarde": 3.36,
+   "uitleg": "3.4 ATR boven de 250d-bodem, 18.5 ATR onder de top (aan binnen 1)"
   },
   "aandelen": {
-   "aan": true,
-   "waarde": -0.019,
-   "uitleg": "S&P -1.1% vandaag / -1.9% in 5 d, VIX +35% in 5 d"
+   "aan": false,
+   "waarde": -0.015,
+   "uitleg": "S&P +0.4% vandaag / -1.5% in 5 d, VIX +21% in 5 d"
   }
  },
  "kans_volgende_dag": {
-  "groot3": 0.033,
-  "daal2": 0.024,
-  "val5_2d": 0.009
+  "groot3": 0.019,
+  "daal2": 0.018,
+  "val5_2d": 0.007
  },
  "nieuws": 0,
- "nieuws_tekst": "Rustige maandag: geen USD-berichten met hoge impact. Goud schommelt rond $4.170-4.200 met een vaste dollar; markt wacht op de FOMC-vergadering later deze week en flash-PMI's. Geen acute schok gemeld.",
- "totaal": 1,
+ "nieuws_tekst": "Geen USD-kernberichten met hoge impact vandaag; geen recent nieuws (laatste 2 dagen) gevonden dat een schok aangeeft.",
+ "totaal": 0,
  "niveau": "RUSTIG",
  "berichten": []
 }
