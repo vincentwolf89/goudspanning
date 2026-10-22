@@ -1,8 +1,8 @@
-HANDELSDAG=2026-10-20
+HANDELSDAG=2026-10-21
 CIJFERSCORE=0
 NIEUWS=0
 TOTAAL=0
 NIVEAU=RUSTIG
 KANS_GROOT3=0.019
 AAN=-
-TEKST=Geen hoge-impact USD-berichten vandaag in de kalender en geen recente schok gevonden in zoekresultaten van de laatste 2 dagen.
+TEKST=Geen USD-kernberichten met hoge impact vandaag en geen recente schok gevonden in zoekresultaten van de laatste 2 dagen.
