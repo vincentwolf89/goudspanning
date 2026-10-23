@@ -1,43 +1,43 @@
 {
- "gemaakt": "2026-10-22T05:16Z",
- "handelsdag": "2026-10-21",
- "goud_slot": 4150.0,
- "cijferscore": 0,
+ "gemaakt": "2026-10-23T05:16Z",
+ "handelsdag": "2026-10-22",
+ "goud_slot": 4060.4,
+ "cijferscore": 1,
  "signalen": {
   "model": {
    "aan": false,
-   "waarde": 0.004,
-   "uitleg": "kans op >= 3% bereik 0% (aan vanaf 15%)"
+   "waarde": 0.015,
+   "uitleg": "kans op >= 3% bereik 2% (aan vanaf 15%)"
   },
   "gvz": {
-   "aan": false,
-   "waarde": 21.36,
-   "uitleg": "GVZ 21.4, rang 0.06, -6% in 5 d (aan bij rang >= 0,80 of +5%)"
+   "aan": true,
+   "waarde": 24.15,
+   "uitleg": "GVZ 24.1, rang 0.32, +8% in 5 d (aan bij rang >= 0,80 of +5%)"
   },
   "reele_rente": {
    "aan": false,
-   "waarde": -0.11,
-   "uitleg": "10j reele rente -0.11 pp in 5 d (aan vanaf +0,20; enige met richting: goud omlaag)"
+   "waarde": -0.08,
+   "uitleg": "10j reele rente -0.08 pp in 5 d (aan vanaf +0,20; enige met richting: goud omlaag)"
   },
   "bodem_top": {
    "aan": false,
-   "waarde": 3.45,
-   "uitleg": "3.4 ATR boven de 250d-bodem, 19.9 ATR onder de top (aan binnen 1)"
+   "waarde": 2.11,
+   "uitleg": "2.1 ATR boven de 250d-bodem, 20.2 ATR onder de top (aan binnen 1)"
   },
   "aandelen": {
    "aan": false,
-   "waarde": 0.005,
-   "uitleg": "S&P +0.6% vandaag / +0.5% in 5 d, VIX -1% in 5 d"
+   "waarde": -0.01,
+   "uitleg": "S&P -1.2% vandaag / -1.0% in 5 d, VIX +16% in 5 d"
   }
  },
  "kans_volgende_dag": {
-  "groot3": 0.019,
-  "daal2": 0.018,
-  "val5_2d": 0.007
+  "groot3": 0.033,
+  "daal2": 0.024,
+  "val5_2d": 0.009
  },
  "nieuws": 0,
- "nieuws_tekst": "Geen USD-kernberichten met hoge impact vandaag en geen recente schok gevonden in zoekresultaten van de laatste 2 dagen.",
- "totaal": 0,
+ "nieuws_tekst": "Geen USD-kernberichten met hoge impact vandaag in de kalender en geen recente schok gevonden in zoekresultaten van de laatste 2 dagen; rustig.",
+ "totaal": 1,
  "niveau": "RUSTIG",
  "berichten": []
 }
