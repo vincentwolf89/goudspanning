@@ -1,33 +1,33 @@
 {
- "gemaakt": "2026-10-23T05:16Z",
- "handelsdag": "2026-10-22",
- "goud_slot": 4060.4,
+ "gemaakt": "2026-10-26T05:16Z",
+ "handelsdag": "2026-10-23",
+ "goud_slot": 4007.9,
  "cijferscore": 1,
  "signalen": {
   "model": {
    "aan": false,
-   "waarde": 0.015,
+   "waarde": 0.019,
    "uitleg": "kans op >= 3% bereik 2% (aan vanaf 15%)"
   },
   "gvz": {
    "aan": true,
-   "waarde": 24.15,
-   "uitleg": "GVZ 24.1, rang 0.32, +8% in 5 d (aan bij rang >= 0,80 of +5%)"
+   "waarde": 24.34,
+   "uitleg": "GVZ 24.3, rang 0.34, +8% in 5 d (aan bij rang >= 0,80 of +5%)"
   },
   "reele_rente": {
    "aan": false,
-   "waarde": -0.08,
-   "uitleg": "10j reele rente -0.08 pp in 5 d (aan vanaf +0,20; enige met richting: goud omlaag)"
+   "waarde": -0.14,
+   "uitleg": "10j reele rente -0.14 pp in 5 d (aan vanaf +0,20; enige met richting: goud omlaag)"
   },
   "bodem_top": {
    "aan": false,
-   "waarde": 2.11,
-   "uitleg": "2.1 ATR boven de 250d-bodem, 20.2 ATR onder de top (aan binnen 1)"
+   "waarde": 1.41,
+   "uitleg": "1.4 ATR boven de 250d-bodem, 20.9 ATR onder de top (aan binnen 1)"
   },
   "aandelen": {
    "aan": false,
-   "waarde": -0.01,
-   "uitleg": "S&P -1.2% vandaag / -1.0% in 5 d, VIX +16% in 5 d"
+   "waarde": -0.005,
+   "uitleg": "S&P -0.5% vandaag / -0.5% in 5 d, VIX -3% in 5 d"
   }
  },
  "kans_volgende_dag": {
@@ -36,7 +36,7 @@
   "val5_2d": 0.009
  },
  "nieuws": 0,
- "nieuws_tekst": "Geen USD-kernberichten met hoge impact vandaag in de kalender en geen recente schok gevonden in zoekresultaten van de laatste 2 dagen; rustig.",
+ "nieuws_tekst": "Geen Amerikaanse hoogimpactberichten vandaag. FOMC-besluit staat woensdag 28 okt in de kalender; in recente zoekresultaten geen acute schok van de afgelopen 2 dagen.",
  "totaal": 1,
  "niveau": "RUSTIG",
  "berichten": []

@@ -1,8 +1,8 @@
-HANDELSDAG=2026-10-22
+HANDELSDAG=2026-10-23
 CIJFERSCORE=1
 NIEUWS=0
 TOTAAL=1
 NIVEAU=RUSTIG
 KANS_GROOT3=0.033
 AAN=gvz
-TEKST=Geen USD-kernberichten met hoge impact vandaag in de kalender en geen recente schok gevonden in zoekresultaten van de laatste 2 dagen; rustig.
+TEKST=Geen Amerikaanse hoogimpactberichten vandaag. FOMC-besluit staat woensdag 28 okt in de kalender; in recente zoekresultaten geen acute schok van de afgelopen 2 dagen.
