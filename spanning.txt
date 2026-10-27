@@ -1,8 +1,8 @@
-HANDELSDAG=2026-10-23
+HANDELSDAG=2026-10-26
 CIJFERSCORE=1
 NIEUWS=0
 TOTAAL=1
 NIVEAU=RUSTIG
 KANS_GROOT3=0.033
 AAN=gvz
-TEKST=Geen Amerikaanse hoogimpactberichten vandaag. FOMC-besluit staat woensdag 28 okt in de kalender; in recente zoekresultaten geen acute schok van de afgelopen 2 dagen.
+TEKST=Geen kernberichten vandaag (di 27 okt) en geen acute schok gevonden in recente zoekresultaten. Morgen FOMC-besluit (14:00 ET, verwacht 4.00%) en persconferentie; donderdag Advance GDP en Core PCE.
