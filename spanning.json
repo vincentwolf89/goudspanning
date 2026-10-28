@@ -1,8 +1,8 @@
 {
- "gemaakt": "2026-10-27T05:16Z",
- "handelsdag": "2026-10-26",
- "goud_slot": 4038.4,
- "cijferscore": 1,
+ "gemaakt": "2026-10-28T05:16Z",
+ "handelsdag": "2026-10-27",
+ "goud_slot": 4074.6,
+ "cijferscore": 0,
  "signalen": {
   "model": {
    "aan": false,
@@ -10,34 +10,63 @@
    "uitleg": "kans op >= 3% bereik 1% (aan vanaf 15%)"
   },
   "gvz": {
-   "aan": true,
-   "waarde": 23.55,
-   "uitleg": "GVZ 23.6, rang 0.22, +6% in 5 d (aan bij rang >= 0,80 of +5%)"
+   "aan": false,
+   "waarde": 22.58,
+   "uitleg": "GVZ 22.6, rang 0.13, +3% in 5 d (aan bij rang >= 0,80 of +5%)"
   },
   "reele_rente": {
    "aan": false,
-   "waarde": -0.08,
-   "uitleg": "10j reele rente -0.08 pp in 5 d (aan vanaf +0,20; enige met richting: goud omlaag)"
+   "waarde": -0.14,
+   "uitleg": "10j reele rente -0.14 pp in 5 d (aan vanaf +0,20; enige met richting: goud omlaag)"
   },
   "bodem_top": {
    "aan": false,
-   "waarde": 1.97,
-   "uitleg": "2.0 ATR boven de 250d-bodem, 22.3 ATR onder de top (aan binnen 1)"
+   "waarde": 2.14,
+   "uitleg": "2.1 ATR boven de 250d-bodem, 21.7 ATR onder de top (aan binnen 1)"
   },
   "aandelen": {
    "aan": false,
-   "waarde": -0.002,
-   "uitleg": "S&P +0.7% vandaag / -0.2% in 5 d, VIX -0% in 5 d"
+   "waarde": 0.001,
+   "uitleg": "S&P +0.6% vandaag / +0.1% in 5 d, VIX +1% in 5 d"
   }
  },
  "kans_volgende_dag": {
-  "groot3": 0.033,
-  "daal2": 0.024,
-  "val5_2d": 0.009
+  "groot3": 0.019,
+  "daal2": 0.018,
+  "val5_2d": 0.007
  },
- "nieuws": 0,
- "nieuws_tekst": "Geen kernberichten vandaag (di 27 okt) en geen acute schok gevonden in recente zoekresultaten. Morgen FOMC-besluit (14:00 ET, verwacht 4.00%) en persconferentie; donderdag Advance GDP en Core PCE.",
+ "nieuws": 1,
+ "nieuws_tekst": "FOMC-besluit vandaag 14:00 ET (verwacht 4.00%, ongewijzigd) met persconferentie 14:30 ET; morgen GDP en Core PCE. Geen recente schok gevonden in zoekresultaten van de laatste 2 dagen.",
  "totaal": 1,
  "niveau": "RUSTIG",
- "berichten": []
+ "berichten": [
+  {
+   "naam": "FOMC rentebesluit/statement",
+   "server": "2026-10-28 21:00",
+   "nl": "2026-10-28 19:00",
+   "kern": true,
+   "verwachting": "4.00%",
+   "vorige": "4.00%",
+   "verrassingsrisico": "middel",
+   "context": "Rentebesluit met statement; verwacht ongewijzigd, toon bepaalt de reactie van goud.",
+   "pauze": false,
+   "pauze_van": "",
+   "pauze_tot": "",
+   "reden": ""
+  },
+  {
+   "naam": "FOMC persconferentie",
+   "server": "2026-10-28 21:30",
+   "nl": "2026-10-28 19:30",
+   "kern": true,
+   "verwachting": "",
+   "vorige": "",
+   "verrassingsrisico": "middel",
+   "context": "Toelichting van de voorzitter kan de koers van rente en goud verschuiven.",
+   "pauze": false,
+   "pauze_van": "",
+   "pauze_tot": "",
+   "reden": ""
+  }
+ ]
 }
