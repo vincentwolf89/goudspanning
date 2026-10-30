@@ -1,72 +1,43 @@
 {
- "gemaakt": "2026-10-29T05:16Z",
- "handelsdag": "2026-10-28",
- "goud_slot": 4051.6,
- "cijferscore": 1,
+ "gemaakt": "2026-10-30T05:17Z",
+ "handelsdag": "2026-10-29",
+ "goud_slot": 4031.4,
+ "cijferscore": 0,
  "signalen": {
   "model": {
    "aan": false,
-   "waarde": 0.017,
-   "uitleg": "kans op >= 3% bereik 2% (aan vanaf 15%)"
+   "waarde": 0.006,
+   "uitleg": "kans op >= 3% bereik 1% (aan vanaf 15%)"
   },
   "gvz": {
-   "aan": true,
-   "waarde": 22.9,
-   "uitleg": "GVZ 22.9, rang 0.16, +7% in 5 d (aan bij rang >= 0,80 of +5%)"
+   "aan": false,
+   "waarde": 22.73,
+   "uitleg": "GVZ 22.7, rang 0.15, -6% in 5 d (aan bij rang >= 0,80 of +5%)"
   },
   "reele_rente": {
    "aan": false,
-   "waarde": -0.13,
-   "uitleg": "10j reele rente -0.13 pp in 5 d (aan vanaf +0,20; enige met richting: goud omlaag)"
+   "waarde": -0.09,
+   "uitleg": "10j reele rente -0.09 pp in 5 d (aan vanaf +0,20; enige met richting: goud omlaag)"
   },
   "bodem_top": {
    "aan": false,
-   "waarde": 1.83,
-   "uitleg": "1.8 ATR boven de 250d-bodem, 22.2 ATR onder de top (aan binnen 1)"
+   "waarde": 1.37,
+   "uitleg": "1.4 ATR boven de 250d-bodem, 22.3 ATR onder de top (aan binnen 1)"
   },
   "aandelen": {
    "aan": false,
-   "waarde": -0.002,
-   "uitleg": "S&P +0.3% vandaag / -0.2% in 5 d, VIX +1% in 5 d"
+   "waarde": 0.007,
+   "uitleg": "S&P -0.3% vandaag / +0.7% in 5 d, VIX -10% in 5 d"
   }
  },
  "kans_volgende_dag": {
-  "groot3": 0.033,
-  "daal2": 0.024,
-  "val5_2d": 0.009
+  "groot3": 0.019,
+  "daal2": 0.018,
+  "val5_2d": 0.007
  },
  "nieuws": 1,
- "nieuws_tekst": "Vandaag Core PCE en voorlopig BBP (VS) om 08:30 ET; gisteren was het FOMC-besluit. Geen acute schok gevonden in zoekresultaten van de laatste 2 dagen.",
- "totaal": 2,
- "niveau": "OPLETTEN",
- "berichten": [
-  {
-   "naam": "US Core PCE m/m",
-   "server": "2026-10-29 15:30",
-   "nl": "2026-10-29 13:30",
-   "kern": true,
-   "verwachting": "0.3%",
-   "vorige": "0.2%",
-   "verrassingsrisico": "middel",
-   "context": "Voorkeursinflatiemaatstaf van de Fed, kort na het FOMC-besluit.",
-   "pauze": false,
-   "pauze_van": "",
-   "pauze_tot": "",
-   "reden": ""
-  },
-  {
-   "naam": "US Advance GDP q/q",
-   "server": "2026-10-29 15:30",
-   "nl": "2026-10-29 13:30",
-   "kern": false,
-   "verwachting": "3.2%",
-   "vorige": "1.5%",
-   "verrassingsrisico": "middel",
-   "context": "Eerste raming groei derde kwartaal.",
-   "pauze": false,
-   "pauze_van": "",
-   "pauze_tot": "",
-   "reden": ""
-  }
- ]
+ "nieuws_tekst": "Geen Amerikaans hoogimpactbericht gevonden voor vandaag (PCE was 29 okt). Goud rond $4.130-4.300, gedreven door Fed-renteverhogingsverwachting (december), Treasury-rendementen en Midden-Oosten/Hormuz-spanning; geen acute schok gemeld.",
+ "totaal": 1,
+ "niveau": "RUSTIG",
+ "berichten": []
 }

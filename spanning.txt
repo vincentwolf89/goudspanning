@@ -1,10 +1,8 @@
-HANDELSDAG=2026-10-28
-CIJFERSCORE=1
+HANDELSDAG=2026-10-29
+CIJFERSCORE=0
 NIEUWS=1
-TOTAAL=2
-NIVEAU=OPLETTEN
-KANS_GROOT3=0.033
-AAN=gvz
-TEKST=Vandaag Core PCE en voorlopig BBP (VS) om 08:30 ET; gisteren was het FOMC-besluit. Geen acute schok gevonden in zoekresultaten van de laatste 2 dagen.
-BERICHT=2026.10.29 15:30|US Core PCE m/m|middel|-
-BERICHT=2026.10.29 15:30|US Advance GDP q/q|middel|-
+TOTAAL=1
+NIVEAU=RUSTIG
+KANS_GROOT3=0.019
+AAN=-
+TEKST=Geen Amerikaans hoogimpactbericht gevonden voor vandaag (PCE was 29 okt). Goud rond $4.130-4.300, gedreven door Fed-renteverhogingsverwachting (december), Treasury-rendementen en Midden-Oosten/Hormuz-spanning; geen acute schok gemeld.
