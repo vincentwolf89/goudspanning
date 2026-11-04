@@ -1,9 +1,8 @@
-HANDELSDAG=2026-11-02
-CIJFERSCORE=1
+HANDELSDAG=2026-11-03
+CIJFERSCORE=2
 NIEUWS=0
-TOTAAL=1
-NIVEAU=RUSTIG
-KANS_GROOT3=0.033
-AAN=gvz
-TEKST=Rustig: geen kernbericht vandaag. Alleen Amerikaanse tussentijdse verkiezingen (kalender, hoge impact). Zoekresultaten van de laatste 2 dagen tonen geen acute schok of Fed-draai.
-BERICHT=2026.11.03 17:16|Congressional Elections|laag|-
+TOTAAL=2
+NIVEAU=OPLETTEN
+KANS_GROOT3=0.111
+AAN=gvz,bodem_top
+TEKST=Geen USD-kernbericht vandaag; NFP volgt vrijdag 6 nov. Midterm-verkiezingen (3 nov) en oorlogen in Iran/Oekraïne als achtergrond, maar geen acute schok gevonden in zoekresultaten.
