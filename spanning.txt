@@ -1,8 +1,8 @@
-HANDELSDAG=2026-11-03
-CIJFERSCORE=2
+HANDELSDAG=2026-11-04
+CIJFERSCORE=1
 NIEUWS=0
-TOTAAL=2
-NIVEAU=OPLETTEN
-KANS_GROOT3=0.111
-AAN=gvz,bodem_top
-TEKST=Geen USD-kernbericht vandaag; NFP volgt vrijdag 6 nov. Midterm-verkiezingen (3 nov) en oorlogen in Iran/Oekraïne als achtergrond, maar geen acute schok gevonden in zoekresultaten.
+TOTAAL=1
+NIVEAU=RUSTIG
+KANS_GROOT3=0.033
+AAN=gvz
+TEKST=Geen USD-kernberichten vandaag; volgende kalenderpunt is de banenrapportage (NFP) op 6 november. Zoekresultaten bevatten geen schok van de afgelopen 24 uur.

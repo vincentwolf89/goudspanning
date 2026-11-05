@@ -1,43 +1,43 @@
 {
- "gemaakt": "2026-11-04T05:16Z",
- "handelsdag": "2026-11-03",
- "goud_slot": 3940.4,
- "cijferscore": 2,
+ "gemaakt": "2026-11-05T05:16Z",
+ "handelsdag": "2026-11-04",
+ "goud_slot": 4073.0,
+ "cijferscore": 1,
  "signalen": {
   "model": {
    "aan": false,
-   "waarde": 0.041,
-   "uitleg": "kans op >= 3% bereik 4% (aan vanaf 15%)"
+   "waarde": 0.018,
+   "uitleg": "kans op >= 3% bereik 2% (aan vanaf 15%)"
   },
   "gvz": {
    "aan": true,
-   "waarde": 25.82,
-   "uitleg": "GVZ 25.8, rang 0.51, +14% in 5 d (aan bij rang >= 0,80 of +5%)"
+   "waarde": 24.11,
+   "uitleg": "GVZ 24.1, rang 0.30, +5% in 5 d (aan bij rang >= 0,80 of +5%)"
   },
   "reele_rente": {
    "aan": false,
-   "waarde": -0.04,
-   "uitleg": "10j reele rente -0.04 pp in 5 d (aan vanaf +0,20; enige met richting: goud omlaag)"
+   "waarde": 0.01,
+   "uitleg": "10j reele rente +0.01 pp in 5 d (aan vanaf +0,20; enige met richting: goud omlaag)"
   },
   "bodem_top": {
-   "aan": true,
-   "waarde": 0.82,
-   "uitleg": "0.8 ATR boven de 250d-bodem, 22.1 ATR onder de top (aan binnen 1)"
+   "aan": false,
+   "waarde": 2.53,
+   "uitleg": "2.5 ATR boven de 250d-bodem, 19.7 ATR onder de top (aan binnen 1)"
   },
   "aandelen": {
    "aan": false,
-   "waarde": -0.02,
-   "uitleg": "S&P +0.4% vandaag / -2.0% in 5 d, VIX +19% in 5 d"
+   "waarde": -0.007,
+   "uitleg": "S&P +1.6% vandaag / -0.7% in 5 d, VIX -2% in 5 d"
   }
  },
  "kans_volgende_dag": {
-  "groot3": 0.111,
-  "daal2": 0.052,
-  "val5_2d": 0.022
+  "groot3": 0.033,
+  "daal2": 0.024,
+  "val5_2d": 0.009
  },
  "nieuws": 0,
- "nieuws_tekst": "Geen USD-kernbericht vandaag; NFP volgt vrijdag 6 nov. Midterm-verkiezingen (3 nov) en oorlogen in Iran/Oekraïne als achtergrond, maar geen acute schok gevonden in zoekresultaten.",
- "totaal": 2,
- "niveau": "OPLETTEN",
+ "nieuws_tekst": "Geen USD-kernberichten vandaag; volgende kalenderpunt is de banenrapportage (NFP) op 6 november. Zoekresultaten bevatten geen schok van de afgelopen 24 uur.",
+ "totaal": 1,
+ "niveau": "RUSTIG",
  "berichten": []
 }
