@@ -1,8 +1,12 @@
-HANDELSDAG=2026-11-04
-CIJFERSCORE=1
-NIEUWS=0
-TOTAAL=1
-NIVEAU=RUSTIG
-KANS_GROOT3=0.033
-AAN=gvz
-TEKST=Geen USD-kernberichten vandaag; volgende kalenderpunt is de banenrapportage (NFP) op 6 november. Zoekresultaten bevatten geen schok van de afgelopen 24 uur.
+HANDELSDAG=2026-11-05
+CIJFERSCORE=2
+NIEUWS=1
+TOTAAL=3
+NIVEAU=OPLETTEN
+KANS_GROOT3=0.111
+AAN=gvz,aandelen
+TEKST=Kernbericht vandaag: US banenrapport (NFP) om 08:30 ET. Geen acute schok gevonden in zoekresultaten van de laatste 2 dagen.
+BERICHT=2026.11.06 15:30|US Non-Farm Payrolls|middel|PAUZE
+PAUZE=2026.11.06 15:00|2026.11.06 16:30|US Non-Farm Payrolls: ondergrens: kernbericht bij cijferscore >= 2
+BERICHT=2026.11.06 15:30|US Average Hourly Earnings m/m|laag|-
+BERICHT=2026.11.06 15:30|US Unemployment Rate|laag|-
