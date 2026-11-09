@@ -1,18 +1,18 @@
 {
- "gemaakt": "2026-11-06T05:16Z",
- "handelsdag": "2026-11-05",
- "goud_slot": 4113.5,
- "cijferscore": 2,
+ "gemaakt": "2026-11-09T05:16Z",
+ "handelsdag": "2026-11-06",
+ "goud_slot": 4074.9,
+ "cijferscore": 1,
  "signalen": {
   "model": {
    "aan": false,
-   "waarde": 0.066,
-   "uitleg": "kans op >= 3% bereik 7% (aan vanaf 15%)"
+   "waarde": 0.029,
+   "uitleg": "kans op >= 3% bereik 3% (aan vanaf 15%)"
   },
   "gvz": {
-   "aan": true,
-   "waarde": 25.83,
-   "uitleg": "GVZ 25.8, rang 0.51, +14% in 5 d (aan bij rang >= 0,80 of +5%)"
+   "aan": false,
+   "waarde": 25.97,
+   "uitleg": "GVZ 26.0, rang 0.51, -1% in 5 d (aan bij rang >= 0,80 of +5%)"
   },
   "reele_rente": {
    "aan": false,
@@ -21,66 +21,23 @@
   },
   "bodem_top": {
    "aan": false,
-   "waarde": 2.97,
-   "uitleg": "3.0 ATR boven de 250d-bodem, 18.7 ATR onder de top (aan binnen 1)"
+   "waarde": 2.47,
+   "uitleg": "2.5 ATR boven de 250d-bodem, 19.1 ATR onder de top (aan binnen 1)"
   },
   "aandelen": {
    "aan": true,
-   "waarde": -0.047,
-   "uitleg": "S&P -4.4% vandaag / -4.7% in 5 d, VIX +64% in 5 d"
+   "waarde": -0.027,
+   "uitleg": "S&P +0.3% vandaag / -2.7% in 5 d, VIX +32% in 5 d"
   }
  },
  "kans_volgende_dag": {
-  "groot3": 0.111,
-  "daal2": 0.052,
-  "val5_2d": 0.022
+  "groot3": 0.033,
+  "daal2": 0.024,
+  "val5_2d": 0.009
  },
- "nieuws": 1,
- "nieuws_tekst": "Kernbericht vandaag: US banenrapport (NFP) om 08:30 ET. Geen acute schok gevonden in zoekresultaten van de laatste 2 dagen.",
- "totaal": 3,
- "niveau": "OPLETTEN",
- "berichten": [
-  {
-   "naam": "US Non-Farm Payrolls",
-   "server": "2026-11-06 15:30",
-   "nl": "2026-11-06 14:30",
-   "kern": true,
-   "verwachting": "65K",
-   "vorige": "29K",
-   "verrassingsrisico": "middel",
-   "context": "Banenrapport kan Fed-verwachtingen en dollar sterk bewegen.",
-   "pauze": true,
-   "pauze_van": "2026-11-06 15:00",
-   "pauze_tot": "2026-11-06 16:30",
-   "reden": "ondergrens: kernbericht bij cijferscore >= 2"
-  },
-  {
-   "naam": "US Average Hourly Earnings m/m",
-   "server": "2026-11-06 15:30",
-   "nl": "2026-11-06 14:30",
-   "kern": false,
-   "verwachting": "0.3%",
-   "vorige": "0.1%",
-   "verrassingsrisico": "laag",
-   "context": "Onderdeel van het banenrapport.",
-   "pauze": false,
-   "pauze_van": "",
-   "pauze_tot": "",
-   "reden": ""
-  },
-  {
-   "naam": "US Unemployment Rate",
-   "server": "2026-11-06 15:30",
-   "nl": "2026-11-06 14:30",
-   "kern": false,
-   "verwachting": "4.2%",
-   "vorige": "4.2%",
-   "verrassingsrisico": "laag",
-   "context": "Onderdeel van het banenrapport.",
-   "pauze": false,
-   "pauze_van": "",
-   "pauze_tot": "",
-   "reden": ""
-  }
- ]
+ "nieuws": 0,
+ "nieuws_tekst": "Geen USD-kernberichten met hoge impact vandaag in de kalender; zoekresultaten van de laatste 2 dagen tonen geen acute schok of nieuw goudthema.",
+ "totaal": 1,
+ "niveau": "RUSTIG",
+ "berichten": []
 }
