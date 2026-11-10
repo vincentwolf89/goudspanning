@@ -1,8 +1,10 @@
-HANDELSDAG=2026-11-06
-CIJFERSCORE=1
-NIEUWS=0
+HANDELSDAG=2026-11-09
+CIJFERSCORE=0
+NIEUWS=1
 TOTAAL=1
 NIVEAU=RUSTIG
-KANS_GROOT3=0.033
-AAN=aandelen
-TEKST=Geen USD-kernberichten met hoge impact vandaag in de kalender; zoekresultaten van de laatste 2 dagen tonen geen acute schok of nieuw goudthema.
+KANS_GROOT3=0.019
+AAN=-
+TEKST=Vandaag US CPI en Core CPI om 08:30 ET (kernbericht). Geen zoekresultaten van de laatste 2 dagen over een acute schok; geen aanwijzing voor geopolitieke of tariefschok.
+BERICHT=2026.11.10 15:30|US CPI m/m|middel|-
+BERICHT=2026.11.10 15:30|US Core CPI m/m|middel|-
