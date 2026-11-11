@@ -1,7 +1,7 @@
 {
- "gemaakt": "2026-11-10T05:16Z",
- "handelsdag": "2026-11-09",
- "goud_slot": 4114.5,
+ "gemaakt": "2026-11-11T05:16Z",
+ "handelsdag": "2026-11-10",
+ "goud_slot": 4030.2,
  "cijferscore": 0,
  "signalen": {
   "model": {
@@ -11,23 +11,23 @@
   },
   "gvz": {
    "aan": false,
-   "waarde": 24.93,
-   "uitleg": "GVZ 24.9, rang 0.40, -2% in 5 d (aan bij rang >= 0,80 of +5%)"
+   "waarde": 24.43,
+   "uitleg": "GVZ 24.4, rang 0.33, -5% in 5 d (aan bij rang >= 0,80 of +5%)"
   },
   "reele_rente": {
    "aan": false,
-   "waarde": 0.03,
-   "uitleg": "10j reele rente +0.03 pp in 5 d (aan vanaf +0,20; enige met richting: goud omlaag)"
+   "waarde": 0.04,
+   "uitleg": "10j reele rente +0.04 pp in 5 d (aan vanaf +0,20; enige met richting: goud omlaag)"
   },
   "bodem_top": {
    "aan": false,
-   "waarde": 2.92,
-   "uitleg": "2.9 ATR boven de 250d-bodem, 18.2 ATR onder de top (aan binnen 1)"
+   "waarde": 1.78,
+   "uitleg": "1.8 ATR boven de 250d-bodem, 18.4 ATR onder de top (aan binnen 1)"
   },
   "aandelen": {
    "aan": false,
-   "waarde": 0.001,
-   "uitleg": "S&P +2.3% vandaag / +0.1% in 5 d, VIX -6% in 5 d"
+   "waarde": -0.006,
+   "uitleg": "S&P -0.4% vandaag / -0.6% in 5 d, VIX -7% in 5 d"
   }
  },
  "kans_volgende_dag": {
@@ -35,38 +35,9 @@
   "daal2": 0.018,
   "val5_2d": 0.007
  },
- "nieuws": 1,
- "nieuws_tekst": "Vandaag US CPI en Core CPI om 08:30 ET (kernbericht). Geen zoekresultaten van de laatste 2 dagen over een acute schok; geen aanwijzing voor geopolitieke of tariefschok.",
- "totaal": 1,
+ "nieuws": 0,
+ "nieuws_tekst": "Geen USD-hoogimpactberichten vandaag in de kalender (CPI was gisteren, PPI volgt vrijdag). Zoekresultaten van de laatste 2 dagen tonen geen acute schok.",
+ "totaal": 0,
  "niveau": "RUSTIG",
- "berichten": [
-  {
-   "naam": "US CPI m/m",
-   "server": "2026-11-10 15:30",
-   "nl": "2026-11-10 14:30",
-   "kern": true,
-   "verwachting": "0.3%",
-   "vorige": "0.6%",
-   "verrassingsrisico": "middel",
-   "context": "Vorige maand was 0.6%, verwachting 0.3%; afwijking kan goud en dollar bewegen.",
-   "pauze": false,
-   "pauze_van": "",
-   "pauze_tot": "",
-   "reden": ""
-  },
-  {
-   "naam": "US Core CPI m/m",
-   "server": "2026-11-10 15:30",
-   "nl": "2026-11-10 14:30",
-   "kern": true,
-   "verwachting": "0.2%",
-   "vorige": "0.3%",
-   "verrassingsrisico": "middel",
-   "context": "Kerninflatie bepaalt de Fed-verwachtingen.",
-   "pauze": false,
-   "pauze_van": "",
-   "pauze_tot": "",
-   "reden": ""
-  }
- ]
+ "berichten": []
 }
