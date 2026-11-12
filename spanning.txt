@@ -1,8 +1,8 @@
-HANDELSDAG=2026-11-10
+HANDELSDAG=2026-11-11
 CIJFERSCORE=0
 NIEUWS=0
 TOTAAL=0
 NIVEAU=RUSTIG
 KANS_GROOT3=0.019
 AAN=-
-TEKST=Geen USD-hoogimpactberichten vandaag in de kalender (CPI was gisteren, PPI volgt vrijdag). Zoekresultaten van de laatste 2 dagen tonen geen acute schok.
+TEKST=Geen USD-kernberichten vandaag in de kalender (CPI was 10 nov, PPI volgt 13 nov). Zoekresultaten bevatten geen nieuws van de laatste 2 dagen; geen acute schok vastgesteld.
