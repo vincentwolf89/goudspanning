@@ -1,43 +1,72 @@
 {
- "gemaakt": "2026-11-12T05:16Z",
- "handelsdag": "2026-11-11",
- "goud_slot": 4000.5,
- "cijferscore": 0,
+ "gemaakt": "2026-11-13T05:20Z",
+ "handelsdag": "2026-11-12",
+ "goud_slot": 3885.3,
+ "cijferscore": 1,
  "signalen": {
   "model": {
    "aan": false,
-   "waarde": 0.022,
-   "uitleg": "kans op >= 3% bereik 2% (aan vanaf 15%)"
+   "waarde": 0.043,
+   "uitleg": "kans op >= 3% bereik 4% (aan vanaf 15%)"
   },
   "gvz": {
    "aan": false,
-   "waarde": 24.21,
-   "uitleg": "GVZ 24.2, rang 0.31, +0% in 5 d (aan bij rang >= 0,80 of +5%)"
+   "waarde": 25.91,
+   "uitleg": "GVZ 25.9, rang 0.51, +0% in 5 d (aan bij rang >= 0,80 of +5%)"
   },
   "reele_rente": {
    "aan": false,
-   "waarde": 0.04,
-   "uitleg": "10j reele rente +0.04 pp in 5 d (aan vanaf +0,20; enige met richting: goud omlaag)"
+   "waarde": 0.13,
+   "uitleg": "10j reele rente +0.13 pp in 5 d (aan vanaf +0,20; enige met richting: goud omlaag)"
   },
   "bodem_top": {
-   "aan": false,
-   "waarde": 1.44,
-   "uitleg": "1.4 ATR boven de 250d-bodem, 18.9 ATR onder de top (aan binnen 1)"
+   "aan": true,
+   "waarde": 0.33,
+   "uitleg": "0.3 ATR boven de 250d-bodem, 19.4 ATR onder de top (aan binnen 1)"
   },
   "aandelen": {
    "aan": false,
-   "waarde": -0.009,
-   "uitleg": "S&P +1.3% vandaag / -0.9% in 5 d, VIX +5% in 5 d"
+   "waarde": 0.032,
+   "uitleg": "S&P -0.4% vandaag / +3.2% in 5 d, VIX -34% in 5 d"
   }
  },
  "kans_volgende_dag": {
-  "groot3": 0.019,
-  "daal2": 0.018,
-  "val5_2d": 0.007
+  "groot3": 0.033,
+  "daal2": 0.024,
+  "val5_2d": 0.009
  },
- "nieuws": 0,
- "nieuws_tekst": "Geen USD-kernberichten vandaag in de kalender (CPI was 10 nov, PPI volgt 13 nov). Zoekresultaten bevatten geen nieuws van de laatste 2 dagen; geen acute schok vastgesteld.",
- "totaal": 0,
- "niveau": "RUSTIG",
- "berichten": []
+ "nieuws": 1,
+ "nieuws_tekst": "Kernbericht vandaag: US PPI en Core PPI om 08:30 ET. Zoekresultaten van de laatste 2 dagen geven geen acute schok; goud volgt vooral dollar en rendementen.",
+ "totaal": 2,
+ "niveau": "OPLETTEN",
+ "berichten": [
+  {
+   "naam": "US PPI m/m",
+   "server": "2026-11-13 15:30",
+   "nl": "2026-11-13 14:30",
+   "kern": true,
+   "verwachting": "0.4%",
+   "vorige": "1.3%",
+   "verrassingsrisico": "middel",
+   "context": "Vorige PPI was uitzonderlijk hoog, dus de uitkomst kan afwijken.",
+   "pauze": false,
+   "pauze_van": "",
+   "pauze_tot": "",
+   "reden": ""
+  },
+  {
+   "naam": "US Core PPI m/m",
+   "server": "2026-11-13 15:30",
+   "nl": "2026-11-13 14:30",
+   "kern": true,
+   "verwachting": "0.3%",
+   "vorige": "0.7%",
+   "verrassingsrisico": "middel",
+   "context": "Kernproducentenprijzen na hoge vorige uitkomst.",
+   "pauze": false,
+   "pauze_van": "",
+   "pauze_tot": "",
+   "reden": ""
+  }
+ ]
 }
