@@ -1,10 +1,9 @@
-HANDELSDAG=2026-11-12
-CIJFERSCORE=1
+HANDELSDAG=2026-11-13
+CIJFERSCORE=2
 NIEUWS=1
-TOTAAL=2
+TOTAAL=3
 NIVEAU=OPLETTEN
-KANS_GROOT3=0.033
-AAN=bodem_top
-TEKST=Kernbericht vandaag: US PPI en Core PPI om 08:30 ET. Zoekresultaten van de laatste 2 dagen geven geen acute schok; goud volgt vooral dollar en rendementen.
-BERICHT=2026.11.13 15:30|US PPI m/m|middel|-
-BERICHT=2026.11.13 15:30|US Core PPI m/m|middel|-
+KANS_GROOT3=0.111
+AAN=reele_rente,bodem_top
+TEKST=Fed-voorzitter Warsh spreekt vandaag (12:00 ET); rente en dollar blijven de hoofdthema's voor goud. Geen acute schok of recente nieuwsresultaten van de laatste 2 dagen gevonden.
+BERICHT=2026.11.16 19:00|Fed Chairman Warsh Speaks|middel|-
