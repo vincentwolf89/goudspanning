@@ -1,54 +1,68 @@
 {
- "gemaakt": "2026-11-16T05:16Z",
- "handelsdag": "2026-11-13",
- "goud_slot": 3886.3,
- "cijferscore": 2,
+ "gemaakt": "2026-11-17T05:16Z",
+ "handelsdag": "2026-11-16",
+ "goud_slot": 3853.0,
+ "cijferscore": 3,
  "signalen": {
   "model": {
    "aan": false,
-   "waarde": 0.044,
-   "uitleg": "kans op >= 3% bereik 4% (aan vanaf 15%)"
+   "waarde": 0.052,
+   "uitleg": "kans op >= 3% bereik 5% (aan vanaf 15%)"
   },
   "gvz": {
-   "aan": false,
-   "waarde": 25.35,
-   "uitleg": "GVZ 25.4, rang 0.44, -2% in 5 d (aan bij rang >= 0,80 of +5%)"
+   "aan": true,
+   "waarde": 26.42,
+   "uitleg": "GVZ 26.4, rang 0.56, +6% in 5 d (aan bij rang >= 0,80 of +5%)"
   },
   "reele_rente": {
    "aan": true,
-   "waarde": 0.22,
-   "uitleg": "10j reele rente +0.22 pp in 5 d (aan vanaf +0,20; enige met richting: goud omlaag)"
+   "waarde": 0.31,
+   "uitleg": "10j reele rente +0.31 pp in 5 d (aan vanaf +0,20; enige met richting: goud omlaag)"
   },
   "bodem_top": {
    "aan": true,
-   "waarde": 0.34,
-   "uitleg": "0.3 ATR boven de 250d-bodem, 19.4 ATR onder de top (aan binnen 1)"
+   "waarde": 0.2,
+   "uitleg": "0.2 ATR boven de 250d-bodem, 19.6 ATR onder de top (aan binnen 1)"
   },
   "aandelen": {
    "aan": false,
-   "waarde": 0.025,
-   "uitleg": "S&P -0.4% vandaag / +2.5% in 5 d, VIX -25% in 5 d"
+   "waarde": -0.018,
+   "uitleg": "S&P -1.9% vandaag / -1.8% in 5 d, VIX +15% in 5 d"
   }
  },
  "kans_volgende_dag": {
-  "groot3": 0.111,
-  "daal2": 0.052,
-  "val5_2d": 0.022
+  "groot3": 0.289,
+  "daal2": 0.088,
+  "val5_2d": 0.026
  },
- "nieuws": 1,
- "nieuws_tekst": "Fed-voorzitter Warsh spreekt vandaag (12:00 ET); rente en dollar blijven de hoofdthema's voor goud. Geen acute schok of recente nieuwsresultaten van de laatste 2 dagen gevonden.",
+ "nieuws": 0,
+ "nieuws_tekst": "Kalender vandaag: alleen US Retail Sales (geen kernbericht). Zoekresultaten tonen geen acute schok van de laatste 2 dagen; achtergrond: dollar/rente en Fed-verwachtingen drijven goud.",
  "totaal": 3,
- "niveau": "OPLETTEN",
+ "niveau": "ALARM",
  "berichten": [
   {
-   "naam": "Fed Chairman Warsh Speaks",
-   "server": "2026-11-16 19:00",
-   "nl": "2026-11-16 18:00",
+   "naam": "US Core Retail Sales m/m",
+   "server": "2026-11-17 15:30",
+   "nl": "2026-11-17 14:30",
    "kern": false,
-   "verwachting": "",
-   "vorige": "",
+   "verwachting": "0.4%",
+   "vorige": "0.9%",
    "verrassingsrisico": "middel",
-   "context": "Toespraak van de Fed-voorzitter kan het renteverwachtingspad en daarmee goud bewegen.",
+   "context": "Consumentenbestedingen; routinebericht voor goud.",
+   "pauze": false,
+   "pauze_van": "",
+   "pauze_tot": "",
+   "reden": ""
+  },
+  {
+   "naam": "US Retail Sales m/m",
+   "server": "2026-11-17 15:30",
+   "nl": "2026-11-17 14:30",
+   "kern": false,
+   "verwachting": "0.1%",
+   "vorige": "0.8%",
+   "verrassingsrisico": "middel",
+   "context": "Headline detailhandelsomzet, routinebericht.",
    "pauze": false,
    "pauze_van": "",
    "pauze_tot": "",
