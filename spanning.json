@@ -1,72 +1,58 @@
 {
- "gemaakt": "2026-11-17T05:16Z",
- "handelsdag": "2026-11-16",
- "goud_slot": 3853.0,
- "cijferscore": 3,
+ "gemaakt": "2026-11-18T05:15Z",
+ "handelsdag": "2026-11-17",
+ "goud_slot": 3864.2,
+ "cijferscore": 4,
  "signalen": {
   "model": {
    "aan": false,
-   "waarde": 0.052,
+   "waarde": 0.049,
    "uitleg": "kans op >= 3% bereik 5% (aan vanaf 15%)"
   },
   "gvz": {
    "aan": true,
-   "waarde": 26.42,
-   "uitleg": "GVZ 26.4, rang 0.56, +6% in 5 d (aan bij rang >= 0,80 of +5%)"
+   "waarde": 26.46,
+   "uitleg": "GVZ 26.5, rang 0.56, +8% in 5 d (aan bij rang >= 0,80 of +5%)"
   },
   "reele_rente": {
    "aan": true,
-   "waarde": 0.31,
-   "uitleg": "10j reele rente +0.31 pp in 5 d (aan vanaf +0,20; enige met richting: goud omlaag)"
+   "waarde": 0.29,
+   "uitleg": "10j reele rente +0.29 pp in 5 d (aan vanaf +0,20; enige met richting: goud omlaag)"
   },
   "bodem_top": {
    "aan": true,
-   "waarde": 0.2,
-   "uitleg": "0.2 ATR boven de 250d-bodem, 19.6 ATR onder de top (aan binnen 1)"
+   "waarde": 0.33,
+   "uitleg": "0.3 ATR boven de 250d-bodem, 19.4 ATR onder de top (aan binnen 1)"
   },
   "aandelen": {
-   "aan": false,
-   "waarde": -0.018,
-   "uitleg": "S&P -1.9% vandaag / -1.8% in 5 d, VIX +15% in 5 d"
+   "aan": true,
+   "waarde": -0.024,
+   "uitleg": "S&P -1.0% vandaag / -2.4% in 5 d, VIX +31% in 5 d"
   }
  },
  "kans_volgende_dag": {
-  "groot3": 0.289,
-  "daal2": 0.088,
-  "val5_2d": 0.026
+  "groot3": 0.52,
+  "daal2": 0.28,
+  "val5_2d": 0.12
  },
  "nieuws": 0,
- "nieuws_tekst": "Kalender vandaag: alleen US Retail Sales (geen kernbericht). Zoekresultaten tonen geen acute schok van de laatste 2 dagen; achtergrond: dollar/rente en Fed-verwachtingen drijven goud.",
- "totaal": 3,
+ "nieuws_tekst": "Rustig: vandaag alleen de FOMC-notulen (14:00 ET) in de kalender. Geen zoekresultaten van de laatste 2 dagen over een schok of nieuw goudthema.",
+ "totaal": 4,
  "niveau": "ALARM",
  "berichten": [
   {
-   "naam": "US Core Retail Sales m/m",
-   "server": "2026-11-17 15:30",
-   "nl": "2026-11-17 14:30",
-   "kern": false,
-   "verwachting": "0.4%",
-   "vorige": "0.9%",
-   "verrassingsrisico": "middel",
-   "context": "Consumentenbestedingen; routinebericht voor goud.",
-   "pauze": false,
-   "pauze_van": "",
-   "pauze_tot": "",
-   "reden": ""
-  },
-  {
-   "naam": "US Retail Sales m/m",
-   "server": "2026-11-17 15:30",
-   "nl": "2026-11-17 14:30",
-   "kern": false,
-   "verwachting": "0.1%",
-   "vorige": "0.8%",
-   "verrassingsrisico": "middel",
-   "context": "Headline detailhandelsomzet, routinebericht.",
-   "pauze": false,
-   "pauze_van": "",
-   "pauze_tot": "",
-   "reden": ""
+   "naam": "FOMC Meeting Minutes",
+   "server": "2026-11-18 21:00",
+   "nl": "2026-11-18 20:00",
+   "kern": true,
+   "verwachting": "",
+   "vorige": "",
+   "verrassingsrisico": "laag",
+   "context": "Notulen van de vorige Fed-vergadering; geen besluit of persconferentie.",
+   "pauze": true,
+   "pauze_van": "2026-11-18 20:30",
+   "pauze_tot": "2026-11-18 22:00",
+   "reden": "ondergrens: kernbericht bij cijferscore >= 2"
   }
  ]
 }
