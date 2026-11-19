@@ -1,33 +1,33 @@
 {
- "gemaakt": "2026-11-18T05:15Z",
- "handelsdag": "2026-11-17",
- "goud_slot": 3864.2,
+ "gemaakt": "2026-11-19T05:16Z",
+ "handelsdag": "2026-11-18",
+ "goud_slot": 3741.9,
  "cijferscore": 4,
  "signalen": {
   "model": {
    "aan": false,
-   "waarde": 0.049,
-   "uitleg": "kans op >= 3% bereik 5% (aan vanaf 15%)"
+   "waarde": 0.078,
+   "uitleg": "kans op >= 3% bereik 8% (aan vanaf 15%)"
   },
   "gvz": {
    "aan": true,
-   "waarde": 26.46,
-   "uitleg": "GVZ 26.5, rang 0.56, +8% in 5 d (aan bij rang >= 0,80 of +5%)"
+   "waarde": 28.04,
+   "uitleg": "GVZ 28.0, rang 0.72, +16% in 5 d (aan bij rang >= 0,80 of +5%)"
   },
   "reele_rente": {
    "aan": true,
-   "waarde": 0.29,
-   "uitleg": "10j reele rente +0.29 pp in 5 d (aan vanaf +0,20; enige met richting: goud omlaag)"
+   "waarde": 0.23,
+   "uitleg": "10j reele rente +0.23 pp in 5 d (aan vanaf +0,20; enige met richting: goud omlaag)"
   },
   "bodem_top": {
    "aan": true,
-   "waarde": 0.33,
-   "uitleg": "0.3 ATR boven de 250d-bodem, 19.4 ATR onder de top (aan binnen 1)"
+   "waarde": 0.21,
+   "uitleg": "0.2 ATR boven de 250d-bodem, 19.6 ATR onder de top (aan binnen 1)"
   },
   "aandelen": {
    "aan": true,
-   "waarde": -0.024,
-   "uitleg": "S&P -1.0% vandaag / -2.4% in 5 d, VIX +31% in 5 d"
+   "waarde": -0.039,
+   "uitleg": "S&P -0.2% vandaag / -3.9% in 5 d, VIX +40% in 5 d"
   }
  },
  "kans_volgende_dag": {
@@ -36,23 +36,8 @@
   "val5_2d": 0.12
  },
  "nieuws": 0,
- "nieuws_tekst": "Rustig: vandaag alleen de FOMC-notulen (14:00 ET) in de kalender. Geen zoekresultaten van de laatste 2 dagen over een schok of nieuw goudthema.",
+ "nieuws_tekst": "Geen USD-kernberichten vandaag in de kalender; zoekresultaten bevatten geen nieuws van de afgelopen 2 dagen over een schok. Rustig.",
  "totaal": 4,
  "niveau": "ALARM",
- "berichten": [
-  {
-   "naam": "FOMC Meeting Minutes",
-   "server": "2026-11-18 21:00",
-   "nl": "2026-11-18 20:00",
-   "kern": true,
-   "verwachting": "",
-   "vorige": "",
-   "verrassingsrisico": "laag",
-   "context": "Notulen van de vorige Fed-vergadering; geen besluit of persconferentie.",
-   "pauze": true,
-   "pauze_van": "2026-11-18 20:30",
-   "pauze_tot": "2026-11-18 22:00",
-   "reden": "ondergrens: kernbericht bij cijferscore >= 2"
-  }
- ]
+ "berichten": []
 }

@@ -1,10 +1,8 @@
-HANDELSDAG=2026-11-17
+HANDELSDAG=2026-11-18
 CIJFERSCORE=4
 NIEUWS=0
 TOTAAL=4
 NIVEAU=ALARM
 KANS_GROOT3=0.52
 AAN=gvz,reele_rente,bodem_top,aandelen
-TEKST=Rustig: vandaag alleen de FOMC-notulen (14:00 ET) in de kalender. Geen zoekresultaten van de laatste 2 dagen over een schok of nieuw goudthema.
-BERICHT=2026.11.18 21:00|FOMC Meeting Minutes|laag|PAUZE
-PAUZE=2026.11.18 20:30|2026.11.18 22:00|FOMC Meeting Minutes: ondergrens: kernbericht bij cijferscore >= 2
+TEKST=Geen USD-kernberichten vandaag in de kalender; zoekresultaten bevatten geen nieuws van de afgelopen 2 dagen over een schok. Rustig.
