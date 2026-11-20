@@ -1,8 +1,8 @@
-HANDELSDAG=2026-11-18
-CIJFERSCORE=4
+HANDELSDAG=2026-11-19
+CIJFERSCORE=3
 NIEUWS=0
-TOTAAL=4
+TOTAAL=3
 NIVEAU=ALARM
-KANS_GROOT3=0.52
-AAN=gvz,reele_rente,bodem_top,aandelen
-TEKST=Geen USD-kernberichten vandaag in de kalender; zoekresultaten bevatten geen nieuws van de afgelopen 2 dagen over een schok. Rustig.
+KANS_GROOT3=0.289
+AAN=gvz,bodem_top,aandelen
+TEKST=Geen hoge-impact USD-berichten vandaag in de kalender en geen acute schok in zoekresultaten van de laatste 2 dagen; FOMC-notulen kwamen 18 nov al uit.
