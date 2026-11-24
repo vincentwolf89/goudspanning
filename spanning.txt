@@ -1,8 +1,8 @@
-HANDELSDAG=2026-11-20
-CIJFERSCORE=4
-NIEUWS=1
-TOTAAL=5
-NIVEAU=ALARM
-KANS_GROOT3=0.52
-AAN=model,gvz,bodem_top,aandelen
-TEKST=Geen USD-berichten met hoge impact vandaag. Goud zakte rond 18 nov onder $3.800 (laagste niveau in ruim een jaar) door Fed-zorgen en dollar/rente, ondanks oorlog in het Midden-Oosten. Geen acute schok gemeld.
+HANDELSDAG=2026-11-23
+CIJFERSCORE=1
+NIEUWS=0
+TOTAAL=1
+NIVEAU=RUSTIG
+KANS_GROOT3=0.033
+AAN=gvz
+TEKST=Geen USD-kernberichten vandaag; PCE en GDP volgen morgen. Goud zwak (rond of onder $3.800 op 18 nov) door Fed-renteverwachtingen en fondsverkopen; geen acute schok gemeld in de laatste 2 dagen.

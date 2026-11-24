@@ -1,43 +1,43 @@
 {
- "gemaakt": "2026-11-23T05:16Z",
- "handelsdag": "2026-11-20",
- "goud_slot": 3515.4,
- "cijferscore": 4,
+ "gemaakt": "2026-11-24T05:16Z",
+ "handelsdag": "2026-11-23",
+ "goud_slot": 3651.4,
+ "cijferscore": 1,
  "signalen": {
   "model": {
-   "aan": true,
-   "waarde": 0.25,
-   "uitleg": "kans op >= 3% bereik 25% (aan vanaf 15%)"
+   "aan": false,
+   "waarde": 0.117,
+   "uitleg": "kans op >= 3% bereik 12% (aan vanaf 15%)"
   },
   "gvz": {
    "aan": true,
-   "waarde": 34.8,
-   "uitleg": "GVZ 34.8, rang 0.89, +37% in 5 d (aan bij rang >= 0,80 of +5%)"
+   "waarde": 31.25,
+   "uitleg": "GVZ 31.2, rang 0.82, +18% in 5 d (aan bij rang >= 0,80 of +5%)"
   },
   "reele_rente": {
    "aan": false,
-   "waarde": 0.02,
-   "uitleg": "10j reele rente +0.02 pp in 5 d (aan vanaf +0,20; enige met richting: goud omlaag)"
+   "waarde": -0.14,
+   "uitleg": "10j reele rente -0.14 pp in 5 d (aan vanaf +0,20; enige met richting: goud omlaag)"
   },
   "bodem_top": {
-   "aan": true,
-   "waarde": 0.13,
-   "uitleg": "0.1 ATR boven de 250d-bodem, 21.1 ATR onder de top (aan binnen 1)"
+   "aan": false,
+   "waarde": 1.45,
+   "uitleg": "1.4 ATR boven de 250d-bodem, 18.9 ATR onder de top (aan binnen 1)"
   },
   "aandelen": {
-   "aan": true,
-   "waarde": -0.086,
-   "uitleg": "S&P -3.7% vandaag / -8.6% in 5 d, VIX +86% in 5 d"
+   "aan": false,
+   "waarde": -0.024,
+   "uitleg": "S&P +4.7% vandaag / -2.4% in 5 d, VIX +16% in 5 d"
   }
  },
  "kans_volgende_dag": {
-  "groot3": 0.52,
-  "daal2": 0.28,
-  "val5_2d": 0.12
+  "groot3": 0.033,
+  "daal2": 0.024,
+  "val5_2d": 0.009
  },
- "nieuws": 1,
- "nieuws_tekst": "Geen USD-berichten met hoge impact vandaag. Goud zakte rond 18 nov onder $3.800 (laagste niveau in ruim een jaar) door Fed-zorgen en dollar/rente, ondanks oorlog in het Midden-Oosten. Geen acute schok gemeld.",
- "totaal": 5,
- "niveau": "ALARM",
+ "nieuws": 0,
+ "nieuws_tekst": "Geen USD-kernberichten vandaag; PCE en GDP volgen morgen. Goud zwak (rond of onder $3.800 op 18 nov) door Fed-renteverwachtingen en fondsverkopen; geen acute schok gemeld in de laatste 2 dagen.",
+ "totaal": 1,
+ "niveau": "RUSTIG",
  "berichten": []
 }
