@@ -1,72 +1,43 @@
 {
- "gemaakt": "2026-11-25T05:16Z",
- "handelsdag": "2026-11-24",
- "goud_slot": 3561.9,
- "cijferscore": 3,
+ "gemaakt": "2026-11-26T05:16Z",
+ "handelsdag": "2026-11-25",
+ "goud_slot": 3535.8,
+ "cijferscore": 2,
  "signalen": {
   "model": {
    "aan": true,
-   "waarde": 0.301,
-   "uitleg": "kans op >= 3% bereik 30% (aan vanaf 15%)"
+   "waarde": 0.274,
+   "uitleg": "kans op >= 3% bereik 27% (aan vanaf 15%)"
   },
   "gvz": {
    "aan": true,
-   "waarde": 33.64,
-   "uitleg": "GVZ 33.6, rang 0.87, +27% in 5 d (aan bij rang >= 0,80 of +5%)"
+   "waarde": 35.84,
+   "uitleg": "GVZ 35.8, rang 0.91, +28% in 5 d (aan bij rang >= 0,80 of +5%)"
   },
   "reele_rente": {
    "aan": false,
-   "waarde": -0.13,
-   "uitleg": "10j reele rente -0.13 pp in 5 d (aan vanaf +0,20; enige met richting: goud omlaag)"
+   "waarde": -0.1,
+   "uitleg": "10j reele rente -0.10 pp in 5 d (aan vanaf +0,20; enige met richting: goud omlaag)"
   },
   "bodem_top": {
-   "aan": true,
-   "waarde": 0.56,
-   "uitleg": "0.6 ATR boven de 250d-bodem, 19.2 ATR onder de top (aan binnen 1)"
+   "aan": false,
+   "waarde": 1.0,
+   "uitleg": "1.0 ATR boven de 250d-bodem, 18.6 ATR onder de top (aan binnen 1)"
   },
   "aandelen": {
    "aan": false,
    "waarde": -0.019,
-   "uitleg": "S&P -0.5% vandaag / -1.9% in 5 d, VIX +4% in 5 d"
+   "uitleg": "S&P -0.3% vandaag / -1.9% in 5 d, VIX +15% in 5 d"
   }
  },
  "kans_volgende_dag": {
-  "groot3": 0.289,
-  "daal2": 0.088,
-  "val5_2d": 0.026
+  "groot3": 0.111,
+  "daal2": 0.052,
+  "val5_2d": 0.022
  },
- "nieuws": 1,
- "nieuws_tekst": "Kernbericht vandaag: Core PCE (08:30 ET) naast voorlopige BBP. Goud zakte op 18 nov onder 3.800 dollar (laagste in ruim een jaar) ondanks Midden-Oostenoorlog; Fed-renteverhoging blijft thema. Geen acute schok gemeld.",
- "totaal": 4,
- "niveau": "ALARM",
- "berichten": [
-  {
-   "naam": "Core PCE Price Index m/m",
-   "server": "2026-11-25 15:30",
-   "nl": "2026-11-25 14:30",
-   "kern": true,
-   "verwachting": "0.3%",
-   "vorige": "0.3%",
-   "verrassingsrisico": "middel",
-   "context": "Voorkeursinflatiemaat van de Fed, relevant voor renteverwachtingen.",
-   "pauze": true,
-   "pauze_van": "2026-11-25 15:00",
-   "pauze_tot": "2026-11-25 16:30",
-   "reden": "ondergrens: kernbericht bij cijferscore >= 2"
-  },
-  {
-   "naam": "Prelim GDP q/q",
-   "server": "2026-11-25 15:30",
-   "nl": "2026-11-25 14:30",
-   "kern": false,
-   "verwachting": "3.5%",
-   "vorige": "3.4%",
-   "verrassingsrisico": "laag",
-   "context": "Voorlopige groeiraming, meestal beperkte impact.",
-   "pauze": false,
-   "pauze_van": "",
-   "pauze_tot": "",
-   "reden": ""
-  }
- ]
+ "nieuws": 0,
+ "nieuws_tekst": "Geen USD-kernberichten vandaag (Thanksgiving, VS-beurzen dicht; PCE en BBP kwamen gisteren). Zoekresultaten van de laatste 2 dagen tonen geen acute schok; goud staat onder druk door Fed-beleid.",
+ "totaal": 2,
+ "niveau": "OPLETTEN",
+ "berichten": []
 }

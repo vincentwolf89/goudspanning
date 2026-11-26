@@ -1,11 +1,8 @@
-HANDELSDAG=2026-11-24
-CIJFERSCORE=3
-NIEUWS=1
-TOTAAL=4
-NIVEAU=ALARM
-KANS_GROOT3=0.289
-AAN=model,gvz,bodem_top
-TEKST=Kernbericht vandaag: Core PCE (08:30 ET) naast voorlopige BBP. Goud zakte op 18 nov onder 3.800 dollar (laagste in ruim een jaar) ondanks Midden-Oostenoorlog; Fed-renteverhoging blijft thema. Geen acute schok gemeld.
-BERICHT=2026.11.25 15:30|Core PCE Price Index m/m|middel|PAUZE
-PAUZE=2026.11.25 15:00|2026.11.25 16:30|Core PCE Price Index m/m: ondergrens: kernbericht bij cijferscore >= 2
-BERICHT=2026.11.25 15:30|Prelim GDP q/q|laag|-
+HANDELSDAG=2026-11-25
+CIJFERSCORE=2
+NIEUWS=0
+TOTAAL=2
+NIVEAU=OPLETTEN
+KANS_GROOT3=0.111
+AAN=model,gvz
+TEKST=Geen USD-kernberichten vandaag (Thanksgiving, VS-beurzen dicht; PCE en BBP kwamen gisteren). Zoekresultaten van de laatste 2 dagen tonen geen acute schok; goud staat onder druk door Fed-beleid.
