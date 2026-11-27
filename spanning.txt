@@ -5,4 +5,4 @@ TOTAAL=2
 NIVEAU=OPLETTEN
 KANS_GROOT3=0.111
 AAN=model,gvz
-TEKST=Geen USD-kernberichten vandaag (Thanksgiving, VS-beurzen dicht; PCE en BBP kwamen gisteren). Zoekresultaten van de laatste 2 dagen tonen geen acute schok; goud staat onder druk door Fed-beleid.
+TEKST=Geen USD-berichten met hoge impact vandaag (dag na Thanksgiving, rustige handel). In zoekresultaten van de laatste 2 dagen geen acute schok of nieuw goudthema gevonden.
